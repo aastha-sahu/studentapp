@@ -2,9 +2,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jdevs</groupId>
   <version>2.2</version>
-  <name>studentappme</name>
+  <name>studentapp</name>
   <packaging>war</packaging>
-  <artifactId>formofstudents</artifactId>
+  <artifactId>mrunalapp</artifactId>
   <build>
     <extensions>
     <extension>
