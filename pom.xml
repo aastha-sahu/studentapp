@@ -4,7 +4,7 @@
   <version>2.2</version>
   <name>studentapp</name>
   <packaging>war</packaging>
-  <artifactId>mrunalapp</artifactId>
+  <artifactId>mrunal-app</artifactId>
   <build>
     <extensions>
     <extension>
